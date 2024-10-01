@@ -1,1 +1,1 @@
-# CognoRise
+# CongnoRise-InfoTech-Projects
